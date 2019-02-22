@@ -1,5 +1,5 @@
-You just wrote a cpp program that reads it config from a file named conf.ini.
-As you don't want to bother adding all files manualy, you have decided to use .gitignore.
+You just wrote a cpp program that reads its config from a file named conf.ini.
+As you don't want to bother adding all files manually, you have decided to use .gitignore.
 
 You need to create a .gitignore file that will:
  - Ignore all files that end with a ~ (bakup files)

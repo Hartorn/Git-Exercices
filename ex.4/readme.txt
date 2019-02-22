@@ -4,7 +4,7 @@ But somehow there's a bug.
 
 It's late, your partner wants you to go home.
 
-Hell, maybe a good night sleep (or a good night something else)
+Hell, maybe a good night sleep (or a good night of something else)
 will help you find that stupid bug.
 
 So you want to go home, but you don't want to leave the work unsaved,
@@ -39,9 +39,9 @@ PART 4:
 Of couuuuurse !
 You found it, the 'E' is missing between 'D' and 'F'
 
-After fixing the bug, the awesomeness can be mnerged into master.
+After fixing the bug, the awesomeness can be merged into master.
 
-- Modify the file so that it's beauty is complete
+- Modify the file so that its beauty is complete
 - Commit the difference
 - Push it
 - Merge it into master
