@@ -6,8 +6,8 @@ Review is going well, but now you have to clean up your history before being mer
 First
 ----
 Using rebase -i on last four commits (HEAD~4)
-Clean up useless commits by squashing them,
-Split too big commit in several one,
+ - clean up useless commits by squashing them,
+ - split too big commit (first one, read the message in log) in several one,
 then push (force-with-lease) your cleaned up history
 
 ----
