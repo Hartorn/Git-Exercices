@@ -33,6 +33,12 @@ function _ex() {
     done
     git push --tags -u origin master
 
+    cd ..
+    rm -rf work
+    mkdir work
+    cd work
+    git clone ../repo . > /dev/null 2>&1
+
 }
 
 _create _ex
